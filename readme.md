@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-This is created by Aditya Agarwal
+This is created by Aditya Agarwal.
